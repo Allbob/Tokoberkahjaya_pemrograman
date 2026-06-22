@@ -1,0 +1,23 @@
+# Build output
+build/
+dist/
+out/
+bin/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+
+# Database files
+*.db
+*.sql
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
